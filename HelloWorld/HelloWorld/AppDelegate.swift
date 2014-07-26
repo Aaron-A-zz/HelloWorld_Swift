@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Hello World
+//  HelloWorld
 //
-//  Created by Mav3r1ck on 6/3/14.
+//  Created by Mav3r1ck on 7/19/14.
 //  Copyright (c) 2014 Mav3r1ck. All rights reserved.
 //
 

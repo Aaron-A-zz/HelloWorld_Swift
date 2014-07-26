@@ -1,14 +1,14 @@
 //
-//  Hello_WorldTests.swift
-//  Hello WorldTests
+//  HelloWorldTests.swift
+//  HelloWorldTests
 //
-//  Created by Mav3r1ck on 6/3/14.
+//  Created by Mav3r1ck on 7/19/14.
 //  Copyright (c) 2014 Mav3r1ck. All rights reserved.
 //
 
 import XCTest
 
-class Hello_WorldTests: XCTestCase {
+class HelloWorldTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
